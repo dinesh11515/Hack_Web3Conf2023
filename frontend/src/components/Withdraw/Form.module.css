@@ -1,0 +1,53 @@
+.withdrawForm {
+    display: inline-block;
+    margin-top: 7%;
+    margin-left: 15%;
+    width: 70%;
+    background-color: rgb(14, 17, 26);
+    border-radius: 20px;
+}
+
+.withdrawForm form {
+    margin-top: 3%;
+    margin-left: 13%;
+}
+
+.withdrawForm span {
+    text-align: center;
+    color: white;
+}
+
+.withdrawBtn {
+    margin-left: 9%;
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+
+.allow {
+    margin-left: 8%;
+    margin-top: 5%;
+    width: 500px;
+}
+
+.options {
+    width: 320px;
+}
+
+.withdrawForm h3{
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.withdrawForm h1{
+    color: white;
+    margin-top: 3%;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-left: 6%;
+}
+
+.highlight {
+    background: -webkit-linear-gradient(31deg, rgba(2,0,36,1) 0%, rgba(37,240,67,0.9897001036742822) 0%, rgba(12,228,245,1) 93%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
