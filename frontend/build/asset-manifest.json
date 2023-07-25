@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e77cad7.css",
+    "main.js": "/static/js/main.be53fa4e.js",
+    "static/media/filecoin.png": "/static/media/filecoin.d5e3e7229f5ef2ce0dde.png",
+    "static/media/social-good.png": "/static/media/social-good.7b6e165415fe5d358435.png",
+    "static/media/uniswap.webp": "/static/media/uniswap.ab25667f0b91032b2cb4.webp",
+    "static/media/chainlink.png": "/static/media/chainlink.749d88e84967ef16abff.png",
+    "static/media/discount.svg": "/static/media/discount.dcccbadee2497390f27d67116b904046.svg",
+    "static/media/polygon.jpg": "/static/media/polygon.665dce872fc96ad14841.jpg",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.ecbed1077a7437ee3abe8d5fd88d9ba5.svg",
+    "static/media/form.svg": "/static/media/form.da5218b1e913155337261c6c2892e317.svg",
+    "index.html": "/index.html",
+    "main.1e77cad7.css.map": "/static/css/main.1e77cad7.css.map",
+    "main.be53fa4e.js.map": "/static/js/main.be53fa4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e77cad7.css",
+    "static/js/main.be53fa4e.js"
+  ]
+}
